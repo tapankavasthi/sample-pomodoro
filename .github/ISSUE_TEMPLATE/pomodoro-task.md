@@ -13,19 +13,19 @@ assignees: tapankavasthi
 - [ ] Break
 [Start Timer](https://www.google.com/search?q=timer+5+minutes)
 ---
-- [ ] ## Task-2
+- [ ] Task-2
 [Start Timer](https://www.google.com/search?q=timer+25+minutes)
 ---
 - [ ] Break
 [Start Timer](https://www.google.com/search?q=timer+5+minutes)
 ---
-- [ ] ## Task-3
+- [ ] Task-3
 [Start Timer](https://www.google.com/search?q=timer+25+minutes)
 ---
 - [ ] Break
 [Start Timer](https://www.google.com/search?q=timer+5+minutes)
 ---
-- [ ] ## Task-4
+- [ ] Task-4
 [Start Timer](https://www.google.com/search?q=timer+25+minutes)
 ---
 - [ ] Break
